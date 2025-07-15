@@ -61,10 +61,8 @@
 
 <br clear="both">
 
-<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BnOWtxaGd3d3IwOTljcGJmZWg5Mzd6YWV5eWFpMml4eG5qY3p0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TO5meWLySRoZg0GX99/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/ThisDoxtape/ThisDoxtape/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BnOWtxaGd3d3IwOTljcGJmZWg5Mzd6YWV5eWFpMml4eG5qY3p0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TO5meWLySRoZg0GX99/giphy.gif"  />
+</div>
 
 ###
